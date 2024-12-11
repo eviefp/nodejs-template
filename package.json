@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-template",
+  "version": "1.0.0",
+  "description": "A garnix module for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-all"
+  },
+  "author": "",
+  "license": "ISC"
+}
