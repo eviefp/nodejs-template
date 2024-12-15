@@ -10,15 +10,15 @@
         "pyproject-nix": "pyproject-nix"
       },
       "locked": {
-        "lastModified": 1732214960,
-        "narHash": "sha256-ViyEMSYwaza6y55XTDrsRi2K4YKCLsefMTorjWSE27s=",
-        "owner": "nix-community",
+        "lastModified": 1734088874,
+        "narHash": "sha256-COlq50bMV/Xbt4NBL3tobaloiX157FhY4ocR1ix+/3k=",
+        "owner": "jkarni",
         "repo": "dream2nix",
-        "rev": "a8dac99db44307fdecead13a39c584b97812d0d4",
+        "rev": "5c763222e549c6239ea4b88499ac8f3274d83f9a",
         "type": "github"
       },
       "original": {
-        "owner": "nix-community",
+        "owner": "jkarni",
         "repo": "dream2nix",
         "type": "github"
       }
@@ -44,15 +44,16 @@
         "nixpkgs": "nixpkgs"
       },
       "locked": {
-        "lastModified": 1734054652,
-        "narHash": "sha256-CqmjvJqDZpozqhH7CFoYZl3M8LmDCjcIflcUl06Gxq0=",
+        "lastModified": 1734267817,
+        "narHash": "sha256-82UXoATcXND5+d6CuYWENE/1GeRE/kjL/RQXYqxIsmE=",
         "owner": "garnix-io",
         "repo": "garnix-lib",
-        "rev": "d1ec99a4baea7612fbe5804a09cfc4b2cc1fbd03",
+        "rev": "c74db5892a78a71fd7194cd23de7bf5e0e568bbf",
         "type": "github"
       },
       "original": {
         "owner": "garnix-io",
+        "ref": "jkarni/update-nixpkgs",
         "repo": "garnix-lib",
         "type": "github"
       }
@@ -95,11 +96,11 @@
         "nixpkgs": "nixpkgs_2"
       },
       "locked": {
-        "lastModified": 1733954682,
-        "narHash": "sha256-Xh8Z1w9XLiN6kYoRKVwcN7+CebvH2vNenYxMWWEtnVc=",
+        "lastModified": 1734266553,
+        "narHash": "sha256-zyZT6QiRrjvKKZCbyXu4LB8c3S/Qm/na885RahWsd6E=",
         "owner": "garnix-io",
         "repo": "nodejs-module",
-        "rev": "7b895aa810238b44e79199fd00cf1d6fdcd35d52",
+        "rev": "c789d4d43557252cc1ee0a7b37111bb543e04749",
         "type": "github"
       },
       "original": {
