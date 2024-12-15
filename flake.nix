@@ -1,6 +1,6 @@
 {
   inputs = {
-    garnix-lib.url = "github:garnix-io/garnix-lib";
+    garnix-lib.url = "github:garnix-io/garnix-lib/jkarni/update-nixpkgs";
     nodejs-module.url = "github:garnix-io/nodejs-module";
   };
   outputs = inputs: inputs.garnix-lib.lib.mkModules {
