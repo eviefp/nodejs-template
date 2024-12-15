@@ -19,7 +19,8 @@
       nodejs.remix = {
         src = ./remix;
         serverCommand = "sample-nodejs-project";
-        testCommand = "npm run lint";
+        buildDependencies = ["hello"];
+        testCommand = "npm run test";
         prettier = true;
       };
     };
