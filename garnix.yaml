@@ -1,5 +1,0 @@
-servers:
-  - configuration: remix
-    deployment:
-      type: on-branch
-      branch: main
