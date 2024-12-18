@@ -1,6 +1,6 @@
 {
   inputs = {
-    garnix-lib.url = "github:garnix-io/garnix-lib/jkarni/update-nixpkgs";
+    garnix-lib.url = "github:garnix-io/garnix-lib";
     nodejs-module.url = "github:garnix-io/nodejs-module";
   };
   outputs = inputs: inputs.garnix-lib.lib.mkModules {
@@ -21,6 +21,8 @@
         testCommand = "npm run test";
         prettier = true;
       };
+
+      garnix.deployBranch = "main";
     };
   };
 }
