@@ -7,7 +7,7 @@
     modules = [
       inputs.nodejs-module.garnixModules.default
     ];
-    config = {
+    config = {pkgs, ...}: {
       nodejs.nextjs = {
         src = ./next-js;
         serverCommand = "sample-nodejs-project";
@@ -17,7 +17,7 @@
       nodejs.remix = {
         src = ./remix;
         serverCommand = "npm run start";
-        buildDependencies = ["hello"];
+        buildDependencies = [pkgs.hello];
         testCommand = "npm run test";
         prettier = true;
       };

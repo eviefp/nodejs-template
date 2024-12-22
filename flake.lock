@@ -44,11 +44,11 @@
         "nixpkgs": "nixpkgs"
       },
       "locked": {
-        "lastModified": 1734545472,
-        "narHash": "sha256-EUSChMKre9MOlGq0vxZWZlKmsK7R+jLZ+gyWMH1I8NY=",
+        "lastModified": 1734854478,
+        "narHash": "sha256-vY6AaPAY/G7PgMDqiykjB8NRD21swr1glES+TNF8HGI=",
         "owner": "garnix-io",
         "repo": "garnix-lib",
-        "rev": "9ceb30a47e1ca5bcdfa3744da6c9cd27a4bdd141",
+        "rev": "6de2382cc0fafe01940ab74a67db9a2b8d239066",
         "type": "github"
       },
       "original": {
@@ -59,16 +59,16 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1717196966,
-        "narHash": "sha256-yZKhxVIKd2lsbOqYd5iDoUIwsRZFqE87smE2Vzf6Ck0=",
-        "owner": "nixos",
+        "lastModified": 1734737257,
+        "narHash": "sha256-GIMyMt1pkkoXdCq9un859bX6YQZ/iYtukb9R5luazLM=",
+        "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "57610d2f8f0937f39dbd72251e9614b1561942d8",
+        "rev": "1c6e20d41d6a9c1d737945962160e8571df55daa",
         "type": "github"
       },
       "original": {
-        "owner": "nixos",
-        "ref": "nixos-unstable",
+        "owner": "NixOS",
+        "ref": "nixos-24.11",
         "repo": "nixpkgs",
         "type": "github"
       }
