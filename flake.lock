@@ -44,11 +44,11 @@
         "nixpkgs": "nixpkgs"
       },
       "locked": {
-        "lastModified": 1734854478,
-        "narHash": "sha256-vY6AaPAY/G7PgMDqiykjB8NRD21swr1glES+TNF8HGI=",
+        "lastModified": 1738237019,
+        "narHash": "sha256-nVJj6z2HeOWi35W7RoG71ErD9IKuymLVa0BR95vV+Hs=",
         "owner": "garnix-io",
         "repo": "garnix-lib",
-        "rev": "6de2382cc0fafe01940ab74a67db9a2b8d239066",
+        "rev": "0573417fc462b0eeed5d762c8fe08093afb35a3d",
         "type": "github"
       },
       "original": {
@@ -59,11 +59,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1734737257,
-        "narHash": "sha256-GIMyMt1pkkoXdCq9un859bX6YQZ/iYtukb9R5luazLM=",
+        "lastModified": 1737569578,
+        "narHash": "sha256-6qY0pk2QmUtBT9Mywdvif0i/CLVgpCjMUn6g9vB+f3M=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "1c6e20d41d6a9c1d737945962160e8571df55daa",
+        "rev": "47addd76727f42d351590c905d9d1905ca895b82",
         "type": "github"
       },
       "original": {
@@ -95,11 +95,11 @@
         "nixpkgs": "nixpkgs_2"
       },
       "locked": {
-        "lastModified": 1734856941,
-        "narHash": "sha256-folHWABJvXBIGUEeJpAOylxfNVRglKpTuDWRczvCN8E=",
+        "lastModified": 1738680194,
+        "narHash": "sha256-ooQ3V88lkR7CxY710XMsdHBGxnn2h8QzmaLnJDAmFmA=",
         "owner": "garnix-io",
         "repo": "nodejs-module",
-        "rev": "2cd718ff90e050e24f29d75393155f08fb2197f0",
+        "rev": "bbdd7b1fb494235937a910ae84dc8c53f7f57d24",
         "type": "github"
       },
       "original": {
